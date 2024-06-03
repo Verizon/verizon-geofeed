@@ -6,4 +6,4 @@ Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 
 last update of feed.csv (rfc3339): 2024-05-28T10:30:00-04:00
 
-last review (rfc3339): 2024-05-28T10:30:00-04:00
+last review (rfc3339): 2024-06-03T14:45:00-04:00
