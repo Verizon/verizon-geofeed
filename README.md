@@ -10,6 +10,6 @@ For Wireless prefixes please use feed_wireless.csv.
 
 Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 
-last update of feed.csv (rfc3339): 2025-10-06T10:45:00-05:00
+last update of feed.csv (rfc3339): 2025-10-13T11:15:00-05:00
 
-last review (rfc3339): 2025-10-06T10:45:00-05:00
+last review (rfc3339): 2025-10-13T11:15:00-05:00
