@@ -125,6 +125,7 @@
 2600:1008:a134::/48,US,US-WI,New Berlin,
 2600:1008:a135::/48,US,US-WI,New Berlin,
 2600:1008:a138::/45,US,US-WI,New Berlin,
+2600:1008:a142::/48,US,US-WI,New Berlin,
 2600:1008:b020::/44,US,US-IL,Hickory Hills,
 2600:1009:a000::/44,US,US-OH,Columbus,
 2600:1009:a010::/44,US,US-OH,Columbus,
@@ -1182,3 +1183,4 @@
 97.253.0.0/17,US,US-WI,New Berlin,
 97.253.128.0/17,US,US-IL,Hickory Hills,
 97.7.0.0/18,US,US-WA,Redmond,
+97.7.128.0/18,US,US-WI,New Berlin,
